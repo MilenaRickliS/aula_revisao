@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'tela_mensagem.dart';
+import 'package:revisao/tela_mensagem.dart';
 
 class TelaHome extends StatefulWidget {
   const TelaHome({super.key});

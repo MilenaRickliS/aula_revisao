@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'tela_home.dart';
+import 'package:revisao/tela_home.dart';
 
 void main() {
   runApp(AppInterativo());

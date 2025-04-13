@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'tela1.dart';
+import 'package:revisao/tela1.dart';
 
 void main() {
   runApp(AppNavegacao());
